@@ -7,17 +7,19 @@
 ## :rocket: Tecnologias
 
 <p float="left">
-  <img alt="TypeScript" src=".github/typescript.svg"/>
-  <img alt="NodeJS" src=".github/node.svg" hspace="10"/>
+  <img alt="JavaScript" src=".github/javascript.svg" />
+  <img alt="TypeScript" src=".github/typescript.svg" hspace="10" />
+  <img alt="NodeJS" src=".github/node.svg" />
 </p>
 
+-  [JavaScript](https://www.w3schools.com/js/)
 -  [TypeScript](https://www.typescriptlang.org/)
 -  [Node.js](https://nodejs.org/en/)
 
-# :wrench: Ferramentas Utilizadas
+## :wrench: Ferramentas Utilizadas
 
 - **express** - Framework de aplicações web para o Node.js que controla as rotas das requisições.
-- **uuidv4** - Identificador único universal para a geração de ids das entidades.
+- **uuidv4**  - Identificador único universal para a geração de ids das entidades.
 
 ## :boom: Como Executar
 
